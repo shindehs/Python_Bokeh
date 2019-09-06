@@ -3,6 +3,8 @@
 # importing Bokeh
 from bokeh.plotting import figure
 from bokeh.io import output_file, show
+import pandas
+
 
 # prepare some data
 x =[1,2,3,4,5]
